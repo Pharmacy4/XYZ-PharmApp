@@ -1,0 +1,45 @@
+html {
+    font-size: 14px;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 18px;
+    }
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+    background-image: url('../image/bg2.png');
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.sample {
+    font-size: 40px;
+    font-family: Forte;
+    color: #0aa3c0;
+    font-weight: bold;
+    
+}
+
+.med {
+    font-size: 25px;
+    color: black;
+    
+}
+
+.footer {
+    position: fixed;
+    height: 50px;
+    text-align: center;
+    color: black;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    margin-bottom: 0px;
+}
