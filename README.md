@@ -1,1 +1,1 @@
-# NiloPharmacy
+# XYZ Pharmacy Application
